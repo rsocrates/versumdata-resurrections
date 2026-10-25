@@ -1,0 +1,30 @@
+{
+  "canal": "@Versumdata",
+  "videos": [
+    {
+      "id": "kCF-dwkOVVc",
+      "titulo": "Extreme AI Engineering - Abrazando el cambio al calor de los tokens - Roberto Sócrates",
+      "descripcion": "Tech Talk de Roberto Sócrates en el Coruña Java User Group, sobre  cómo ha evolucionado nuestra manera de trabajar con la IA. Del prompt engineering al context engineering, agent engineering, harness engineering hasta llegar al loop engineering y graph engineering.",
+      "url": "https://www.youtube.com/watch?v=kCF-dwkOVVc"
+    },
+    {
+      "id": "cHxJbMnv3TQ",
+      "titulo": "Mamá yo quiero ser Agentic Engineer - Archivo 2025 - Roberto Sócrates",
+      "descripcion": "En los comienzos de la era de la programación con IA, justamente a los 3 meses de la aparición de los agentes, Roberto Sócrates trata de dar un poco de luz en la oscuridad de este asunto que para aquel entonces nos era desconocido y novedoso.",
+      "url": "https://www.youtube.com/watch?v=cHxJbMnv3TQ"
+    }
+
+  ],
+  "pdfs": [
+    {
+      "titulo": "Extreme AI Engineering",
+      "descripcion": "Presentación del evento Coruña JUG de octubre de 2026.",
+      "archivo": "/upload/CorunaJUG2026-rc-03.pdf"
+    },
+    {
+      "titulo": "Mamá yo quiero ser Agentic Engineer",
+      "descripcion": "Presentación del evento Coruña JUG de octubre de 2025.",
+      "archivo": "/upload/CorunaJUG202510162.pdf"
+    }
+  ]
+}

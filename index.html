@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Versumdata</title>
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header__logo">
+      <img src="img/logo-sinfondo.png" alt="Logo Versumdata" class="header__logo-img">
+    </div>
+    <h1 class="header__title">Versumdata</h1>
+    <a href="https://www.youtube.com/@Versumdata" class="header__youtube" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-youtube"></i>
+      <span>Versumdata en YouTube</span>
+    </a>
+  </header>
+
+  <main class="container">
+    <h2 class="section-title">Videos del canal</h2>
+    <div id="videos-container" class="videos-grid">
+      <!-- Los videos se cargan dinámicamente desde videos.json -->
+    </div>
+    <h2 class="section-title">Presentaciones en PDF</h2>
+    <div id="pdfs-container" class="videos-grid">
+      <!-- Los PDFs se cargan dinámicamente desde videos.json -->
+    </div>
+
+    <p class="footer">Web diseñada simple, por <a href="https://inled.es" style="text-decoration: none; color: bisque;">Inled Group</a>.</p>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
