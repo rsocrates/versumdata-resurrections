@@ -19,12 +19,12 @@
     {
       "titulo": "Extreme AI Engineering",
       "descripcion": "Presentación del evento Coruña JUG de octubre de 2026.",
-      "archivo": "/https://hosted.inled.es/cdn/CorunaJUG2026-rc-03.pdf"
+      "archivo": "/uploads/CorunaJUG2026-rc-03.pdf"
     },
     {
       "titulo": "Mamá yo quiero ser Agentic Engineer",
       "descripcion": "Presentación del evento Coruña JUG de octubre de 2025.",
-      "archivo": "https://hosted.inled.es/cdn/CorunaJUG202510162.pdf"
+      "archivo": "/uploads/CorunaJUG202510162.pdf"
     }
   ]
 }
